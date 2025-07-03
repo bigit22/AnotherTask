@@ -4,9 +4,13 @@
 git clone https://github.com/bigit22/AnotherTask.git
 ```
 
-Активация среды указана для Windows
+
 ```bash
 python -m venv venv
+```
+
+Активация среды указана для Windows
+```
 .\venv\Scripts\activate
 ```
 
