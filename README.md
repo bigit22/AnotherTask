@@ -20,7 +20,7 @@ curl -F "file=@filename" -X POST "http://127.0.0.1:8000/moderate"
 ## Примеры результатов
 
 ### [OK] Изображение прошедшее модерацию
-![1](https://blog.api.market/wp-content/uploads/2024/07/wonder_woman.png)
+![Изображение может быть слишком большим для отрисовки. Попробуйте посмотреть этот README.md в IDE после клонирования репозитория](https://blog.api.market/wp-content/uploads/2024/07/wonder_woman.png)
 
 ### [REJECTED] Изображение, которое было отклонено
 ![2](https://0x0.st/80pb.png)
