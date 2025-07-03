@@ -1,6 +1,6 @@
 # Запуск
 ```bash
-https://github.com/bigit22/AnotherTask.git
+git clone https://github.com/bigit22/AnotherTask.git
 ```
 
 ```bash
