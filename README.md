@@ -1,6 +1,13 @@
 # Запуск
+
 ```bash
 git clone https://github.com/bigit22/AnotherTask.git
+```
+
+Активация среды указана для Windows
+```bash
+python -m venv venv
+.\venv\Scripts\activate
 ```
 
 ```bash
