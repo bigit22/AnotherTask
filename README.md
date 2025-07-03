@@ -1,4 +1,7 @@
 # Запуск
+```bash
+https://github.com/bigit22/AnotherTask.git
+```
 
 ```bash
 pip install -r requirements.txt
